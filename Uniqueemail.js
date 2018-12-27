@@ -1,6 +1,7 @@
 /**
  * @param {string[]} emails
  * @return {number}
+ * divid into local and global part
  */
 
 
