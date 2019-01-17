@@ -3,7 +3,7 @@ tempx=parseInt(x,10)
 console.log(tempx,typeof(tempx))
 
 if(tempx>=0 && tempx<Math.pow(2,31)){
-    var revbinx=x.split("").reverse().join("")
+    var revbinx=x.split("").reverse().join("") //reversing and then joining
     console.log(revbinx,typeof(revbinx))
     // revbinx=revbinx.reverse()
     // console.log(revbinx,typeof(revbinx))
